@@ -1,0 +1,8 @@
+{
+"a":1,
+"b":true,
+"c.d.f":"secondlevel",
+"c.d.g.h":"thirdlevel",
+"c.d.g.i.date":"2022-02-02",
+"e":"test"
+}
